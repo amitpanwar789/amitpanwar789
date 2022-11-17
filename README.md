@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my web dev skills.<br>I'm an open-source geek.<br>Email - amitpanwar02705@gmail.com.<br>
+I'm currently working on sorting Visualizer.<br>I'm an open-source geek.<br>Email - amitpanwar02705@gmail.com.<br>
 
 
 ## 🌐 Socials:
