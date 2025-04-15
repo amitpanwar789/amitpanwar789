@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack web developer.<br><br>Curious about blockchain technology, cybersecurity, <br>and system design<br><br>Experienced in front-end and back-end development <br>with expertise in JavaScript, React.js, Node.js, and Express.js
+Full-stack Developer.<br><br>Curious about blockchain technology, cybersecurity, <br>and system design<br><br>Experienced in front-end and back-end development <br>with expertise in JavaScript, React.js, Node.js, and Express.js
 
 
 ## 🌐 Socials:
